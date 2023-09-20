@@ -2,6 +2,7 @@ body {
   background-color: aquamarine;
   font-family: Georgia, "Times New Roman", Times, serif;
   color: navy;
+  text-align: center;
 }
 
 .contact-links {
@@ -15,6 +16,9 @@ body {
   cursor: pointer;
 }
 
+img {
+  border-radius: 20px;
+}
 p {
   text-align: center;
   font-size: 16px;
@@ -23,4 +27,14 @@ p {
 h1 {
   text-align: center;
   font-size: 48px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 36px;
+}
+
+.email {
+  text-align: center;
+  font-size: 20px;
 }
